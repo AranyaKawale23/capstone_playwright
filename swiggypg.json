@@ -1,0 +1,34 @@
+{
+    "cities": [
+      "Bangalore",
+      "Gurgaon",
+      "Hyderabad",
+      "Delhi",
+      "Mumbai",
+      "Pune",
+      "Kolkata",
+      "Chennai",
+      "Ahmedabad",
+      "Chandigarh",
+      "Jaipur"
+    ],
+    "selectors": {
+      "locations": "//body/div[@id='root']/div[@class='Y4_Id']/div[@class='_3dbwz']/div[@class='_241x5']/div[4]/div[2]",
+      "nextButton": "//div[4]//div[1]//button[2]//div[1]",
+      "previousButton": "//body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/button[1]",
+      "elements": [
+        "div:nth-child(2) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(3) > div > .sc-uVWWZ > .sc-hknOHE",
+        "div:nth-child(4) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(5) > div > .sc-uVWWZ > .sc-hknOHE",
+        "div:nth-child(6) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(7) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(8) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(9) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(2) > div:nth-child(2) > div > .sc-uVWWZ > .sc-hknOHE",
+        "div:nth-child(2) > div:nth-child(5) > div > .sc-gwZKzw > .sc-hknOHE",
+        "div:nth-child(2) > div:nth-child(4) > div > .sc-gwZKzw > .sc-hknOHE"
+      ]
+    }
+  }
+  

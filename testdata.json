@@ -1,0 +1,30 @@
+{
+    "urls": {
+      "swiggyHome": "https://www.swiggy.com/",
+      "swiggyCorporate": "https://www.swiggy.com/corporate",
+      "partnerWithUs": "https://www.swiggy.com/partner-with-us",
+      "getTheApp": "https://www.swiggy.com/app",
+      "signIn": "https://www.swiggy.com/sign-in"
+    },
+    "texts": {
+      "searchPlaceholder": "Enter your delivery location",
+      "searchBarText": "Search for restaurant, item",
+      "getTheAppText": "Get the App",
+      "signInText": "Sign in"
+    },
+    "roles": {
+      "swiggyLogo": "._1NDpI",
+      "swiggyCorporateLink": "Swiggy Corporate",
+      "partnerWithUsLink": "Partner with us",
+      "signInLink": "Sign in",
+      "getTheAppLink": "Get the App",
+      "deliveryLocation": "Enter your delivery location",
+      "searchForRestaurant": "Search for restaurant, item",
+      "foodDeliveryLink": "Food",
+      "instamartLink": "IM",
+      "genieLink": "Genie"
+    }
+  }
+      
+     
+  
